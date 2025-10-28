@@ -87,11 +87,11 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
    
 
-   ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+   ![rainbow](https://github.com/IsaiRey/IsaiRey/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
   
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=Chmod351&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=IsaiRey&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
