@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" /> 
+  Isai Reyes - Desarrollador
+</h1>
+
+---
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/CODE-ISAI_REYES-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Isai Reyes Coding"/>
 </div>
