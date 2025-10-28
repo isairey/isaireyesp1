@@ -75,6 +75,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
   |![Static Badge](https://img.shields.io/badge/WEB_SCRAPER-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/scraper?color=red)|
   |![Static Badge](https://img.shields.io/badge/PROXY_MICROSERVICE-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/p/proxy-web-microservice?color=red)|
   |![Static Badge](https://img.shields.io/badge/E_COMMERCE_DEMO-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/ecomerceDemo?color=red)|
+   
     </div>
 </section>
 
@@ -82,9 +83,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
 <footer>
   <div align="center">
-    
     ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
-   
     [![GitHub Streak](https://streak-stats.demolab.com?user=Chmod351&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
