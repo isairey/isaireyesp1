@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ef5d88ad-49db-4e60-8074-ee759de95e70" alt="Header Isai Reyes" width="auto"/>
+  <img src="https://github.com/user-attachments/assets/801b46c9-019a-4579-a2ad-319c611ef161" alt="Header Isai Reyes" width="auto"/>
 </div>
 
 ---
+
 
 
 <h1 align="center">
