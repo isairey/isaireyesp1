@@ -1,11 +1,8 @@
-88                                    88  
-                                88                                    88  
-                                88                                    88  
- ,adPPYba, 88,dPPYba,  88,dPYba,,adPYba,  ,adPPYba,   ,adPPYb,88  
+,adPPYba, 88,dPPYba,  88,dPYba,,adPYba,  ,adPPYba,   ,adPPYb,88  
 a8"      "" 88P'    "8a 88P'    "88"    "8a a8"      "8a a8"    `Y88  
 8b          88      88 88      88      88 8b        d8 8b        88  
 "8a,    ,aa 88      88 88      88      88 "8a,    ,a8" "8a,    ,d88  
- `"Ybbd8"' 88      88 88      88      88  `"YbbdP"'   `"8bbdP"Y8  
+ `"Ybbd8"' 88      88 88      88      88  `"YbbdP"'   `"8bbdP"Y8
  
  
  
