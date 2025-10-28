@@ -76,7 +76,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
   |![Static Badge](https://img.shields.io/badge/PROXY_MICROSERVICE-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/p/proxy-web-microservice?color=red)|
   |![Static Badge](https://img.shields.io/badge/E_COMMERCE_DEMO-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/ecomerceDemo?color=red)|
    
-    </div>
+  </div>
 </section>
 
 ---
