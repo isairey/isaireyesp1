@@ -83,13 +83,15 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
 <footer>
   <div align="center">
+    
     ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
     [![GitHub Streak](https://streak-stats.demolab.com?user=Chmod351&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
   | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chmod351&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Chmod351" /> |<img src="https://github-readme-stats.vercel.app/api?username=Chmod351&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Chmod351" />      | 
-    </div>
+    
+  </div>
 </footer>
 
 ¿Necesitas ayuda para generar el **ASCII art con tu nombre (Isai Reyes)** o para encontrar enlaces de imágenes para reemplazar las originales?
