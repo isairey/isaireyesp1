@@ -69,6 +69,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 <section>
     <div align="center"> 
     <h3>Projects</h3>
+      
   |📌 Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
   |-------------|----------|---------------|----------------|-----------|---------|
   |![Static Badge](https://img.shields.io/badge/WEB_SCRAPER-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/scraper?color=red)|
