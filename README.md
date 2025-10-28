@@ -40,7 +40,7 @@
   <div align="right">
     <h3 align="center">🌱 About me (Isai Reyes) </h3>
       <div align="center"> 
-      Apasionado por el desarrollo **Full-Stack/Backend** y la cultura **Linux/Open Source**, busco aplicar mis habilidades para construir soluciones robustas y escalables. Mi amor por el código me impulsa al aprendizaje continuo de nuevas tecnologías y a la optimización de mi trabajo.
+      Apasionado por el desarrollo  **Full-Stack/Backend**  y la cultura **Linux/Open Source**, busco aplicar mis habilidades para construir soluciones robustas y escalables. Mi amor por el código me impulsa al aprendizaje continuo de nuevas tecnologías y a la optimización de mi trabajo.
       
       Busco unirme a un equipo de ingeniería de software que fomente el crecimiento mutuo, donde pueda aportar valor y enfrentar desafíos diarios que me ayuden a crecer profesionalmente.
       </div>
