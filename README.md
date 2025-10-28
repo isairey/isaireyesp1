@@ -24,13 +24,13 @@
 
 <section >
       <div id="badges" align="center">
-        <a href="mailto:[TU_CORREO_AQUÍ]">
+        <a href="mailto:isaireyes2003@gmail.com">
           <img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
         </a>
-          <a href="[TU_LINK_A_NEOVIM_SETUP]">
+          <a href="#">
           <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
         </a>
-        <a href="[TU_LINKEDIN_AQUÍ]">
+        <a href="https://github.com/isaireyesp1">
           <img src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </div>
 </section>
