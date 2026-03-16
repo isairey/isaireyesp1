@@ -1,6 +1,7 @@
 <div align="center">
   
   <img width="1536" height="175" alt="Banner largo y delga" src="https://github.com/user-attachments/assets/29918c90-0b4a-4111-8af1-45c78d687cad" />
+<img width="1536" height="257" alt="Banner colorido para" src="https://github.com/user-attachments/assets/e3e26e33-e0bf-41d2-b1c3-d5f9529d5075" />
 
 </div>
 
