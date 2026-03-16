@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/801b46c9-019a-4579-a2ad-319c611ef161" alt="Header Isai Reyes" width="auto"/>
+  
+  <img width="1536" height="175" alt="Banner largo y delga" src="https://github.com/user-attachments/assets/29918c90-0b4a-4111-8af1-45c78d687cad" />
+
 </div>
 
 ---
