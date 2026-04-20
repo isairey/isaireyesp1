@@ -55,7 +55,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 <section>
   <div align="center">
    
-  ![rainbow](https://github.com/isairey/isairey/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
     <h3>👨‍💻 Languages and Tools:</h3>
    
   |🔥 Languages |📌 Frontend         |📌 Backend          | 📌 Testing      |📌 Databases & ORM |📌      WorkFlow | 
