@@ -40,7 +40,7 @@
 </section>
 
 <section>
-    <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
+    <img src="https://github.com/isairey/isairey/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
   <div align="right">
     <h3 align="center">🌱 Sobre mi </h3>
       <div align="center"> 
