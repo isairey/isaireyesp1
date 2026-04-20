@@ -1,7 +1,8 @@
 <div align="center">
   
  
-<img width="1536" height="257" alt="Banner colorido para" src="https://github.com/user-attachments/assets/e3e26e33-e0bf-41d2-b1c3-d5f9529d5075" />
+<img width="1536" height="329" alt="Banner profesional f" src="https://github.com/user-attachments/assets/daa17816-2b69-432d-a9ba-ea0f70ef8ce3" />
+
 
 </div>
 
@@ -39,7 +40,7 @@
 </section>
 
 <section>
-    <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
+    <img src="https://github.com/isairey/isairey/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
   <div align="right">
     <h3 align="center">🌱 Sobre mi </h3>
       <div align="center"> 
@@ -54,7 +55,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 <section>
   <div align="center">
    
-  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+  ![rainbow](https://github.com/isairey/isairey/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
     <h3>👨‍💻 Languages and Tools:</h3>
    
   |🔥 Languages |📌 Frontend         |📌 Backend          | 📌 Testing      |📌 Databases & ORM |📌      WorkFlow | 
