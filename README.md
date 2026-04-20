@@ -1,7 +1,8 @@
 <div align="center">
   
  
-<img width="1536" height="257" alt="Banner colorido para" src="https://github.com/user-attachments/assets/e3e26e33-e0bf-41d2-b1c3-d5f9529d5075" />
+<img width="1536" height="329" alt="Banner profesional f" src="https://github.com/user-attachments/assets/daa17816-2b69-432d-a9ba-ea0f70ef8ce3" />
+
 
 </div>
 
