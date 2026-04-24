@@ -104,4 +104,4 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
   </div>
 </footer>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&cache_seconds=11)
