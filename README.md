@@ -95,7 +95,7 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
 
   
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=IsaiRey&theme=transparent&hide_border=true&mode=weekly)]
+   [![GitHub Streak](https://streak-stats.demolab.com?user=IsaiReyesp1&theme=transparent&hide_border=true&mode=weekly)]
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
@@ -104,4 +104,8 @@ Busco unirme a un equipo de ingeniería de software que fomente el crecimiento m
   </div>
 </footer>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&cache_seconds=11)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true" />
+</p>
+
+
