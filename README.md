@@ -50,11 +50,8 @@
 
 
   Cuento con experiencia en múltiples tecnologías y lenguajes, participando en el desarrollo de proyectos como sistemas clínicos, plataformas web y APIs, incluyendo soluciones modernas orientadas a <strong>Web 3.0</strong> con generación de contratos inteligentes y transacciones firmadas.
-
   Además, tengo interés en áreas como la <strong>robótica</strong> y sistemas interactivos, explorando la integración de software con entornos físicos y tecnologías emergentes.
-
   Apasionado por el ecosistema <strong>Linux y Open Source</strong>, mantengo un enfoque constante en el aprendizaje, la optimización y la mejora continua de mis habilidades técnicas.
-
   Busco integrarme a un equipo de desarrollo donde pueda aportar valor, enfrentar retos reales y continuar creciendo profesionalmente en entornos de alto nivel técnico.
   </div>
 
