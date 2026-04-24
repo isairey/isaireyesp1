@@ -48,7 +48,7 @@
       <div align="center"> 
       Desarrollador con enfoque en <strong>Full-Stack y Backend</strong>, con experiencia en la construcción de sistemas web, APIs y soluciones orientadas a la automatización y gestión de información. Me especializo en el desarrollo de aplicaciones robustas, escalables y bien estructuradas, aplicando buenas prácticas de ingeniería de software.
 
-```
+
   Cuento con experiencia en múltiples tecnologías y lenguajes, participando en el desarrollo de proyectos como sistemas clínicos, plataformas web y APIs, incluyendo soluciones modernas orientadas a <strong>Web 3.0</strong> con generación de contratos inteligentes y transacciones firmadas.
 
   Además, tengo interés en áreas como la <strong>robótica</strong> y sistemas interactivos, explorando la integración de software con entornos físicos y tecnologías emergentes.
@@ -57,7 +57,7 @@
 
   Busco integrarme a un equipo de desarrollo donde pueda aportar valor, enfrentar retos reales y continuar creciendo profesionalmente en entornos de alto nivel técnico.
   </div>
-```
+
 
 
   </div>
