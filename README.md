@@ -1,3 +1,41 @@
+
+<section>
+  <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left" width="200"/>
+
+  <div align="right">
+    <h3 align="center">🧠 Sobre mí</h3>
+
+```bash
+> whoami
+Isai Reyes - Full Stack / Backend Developer
+
+> skills --focus
+[Java, PHP, Python, Go]
+[Laravel, APIs, Microservices]
+[Linux, Open Source, Automation]
+
+> philosophy
+"Clean code. Scalable systems. Real solutions."
+
+> status
+Building, breaking, learning... repeat.
+```
+
+  <div style="text-align: justify;">
+
+Ingeniero en formación con enfoque en **desarrollo backend y arquitectura de sistemas**, especializado en la construcción de aplicaciones **robustas, escalables y seguras**.
+
+Apasionado por el ecosistema **Linux/Open Source**, donde experimento, optimizo y llevo el código más allá de lo convencional. Mi enfoque no es solo desarrollar, sino **entender, mejorar y dominar** cada sistema en el que trabajo.
+
+Me interesa formar parte de equipos donde el nivel técnico sea alto, los retos sean reales y el crecimiento sea constante. Busco proyectos donde el código tenga impacto, no solo existencia.
+
+🚀 Siempre construyendo. Siempre aprendiendo. Siempre iterando.
+
+  </div>
+  </div>
+</section>
+
+
 <div align="center">
   
  
