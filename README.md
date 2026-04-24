@@ -1,39 +1,17 @@
+## 🧠 Sobre mí
 
-<section>
-  <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left" width="200"/>
+Desarrollador enfocado en **Backend / Full-Stack**, con interés en la construcción de sistemas **escalables, eficientes y bien estructurados**.
 
-  <div align="right">
-    <h3 align="center">🧠 Sobre mí</h3>
+Trabajo principalmente con tecnologías como **Java, PHP, Python y Go**, desarrollando APIs, sistemas web y soluciones orientadas a la automatización y optimización de procesos.
 
-```bash
-> whoami
-Isai Reyes - Full Stack / Backend Developer
+Me interesa el ecosistema **Linux y Open Source**, donde constantemente experimento, aprendo y mejoro mis habilidades técnicas.
 
-> skills --focus
-[Java, PHP, Python, Go]
-[Laravel, APIs, Microservices]
-[Linux, Open Source, Automation]
+Busco formar parte de equipos donde se valore la calidad del código, la arquitectura y el aprendizaje continuo, aportando soluciones reales a problemas reales.
 
-> philosophy
-"Clean code. Scalable systems. Real solutions."
+---
 
-> status
-Building, breaking, learning... repeat.
-```
-
-  <div style="text-align: justify;">
-
-Ingeniero en formación con enfoque en **desarrollo backend y arquitectura de sistemas**, especializado en la construcción de aplicaciones **robustas, escalables y seguras**.
-
-Apasionado por el ecosistema **Linux/Open Source**, donde experimento, optimizo y llevo el código más allá de lo convencional. Mi enfoque no es solo desarrollar, sino **entender, mejorar y dominar** cada sistema en el que trabajo.
-
-Me interesa formar parte de equipos donde el nivel técnico sea alto, los retos sean reales y el crecimiento sea constante. Busco proyectos donde el código tenga impacto, no solo existencia.
-
-🚀 Siempre construyendo. Siempre aprendiendo. Siempre iterando.
-
-  </div>
-  </div>
-</section>
+💻 *Enfoque:* Backend • APIs • Arquitectura
+🚀 *Mentalidad:* Aprender, construir, mejorar
 
 
 <div align="center">
