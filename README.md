@@ -27,7 +27,7 @@
  
  
 
-<section >
+<section>
       <div id="badges" align="center">
         <a href="mailto:isaireyes2003@gmail.com">
           <img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
