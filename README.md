@@ -1,18 +1,3 @@
-## 🧠 Sobre mí
-
-Desarrollador enfocado en **Backend / Full-Stack**, con interés en la construcción de sistemas **escalables, eficientes y bien estructurados**.
-
-Trabajo principalmente con tecnologías como **Java, PHP, Python y Go**, desarrollando APIs, sistemas web y soluciones orientadas a la automatización y optimización de procesos.
-
-Me interesa el ecosistema **Linux y Open Source**, donde constantemente experimento, aprendo y mejoro mis habilidades técnicas.
-
-Busco formar parte de equipos donde se valore la calidad del código, la arquitectura y el aprendizaje continuo, aportando soluciones reales a problemas reales.
-
----
-
-💻 *Enfoque:* Backend • APIs • Arquitectura
-🚀 *Mentalidad:* Aprender, construir, mejorar
-
 
 <div align="center">
   
@@ -55,14 +40,26 @@ Busco formar parte de equipos donde se valore la calidad del código, la arquite
     </div>
 </section>
 
-<section>
+
+      <section>
     <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
   <div align="right">
     <h3 align="center">🌱 Sobre mi </h3>
       <div align="center"> 
-      Apasionado por el desarrollo  <strong>Full-Stack/Backend</strong>  y la cultura <strong>Linux/Open Source</strong>, busco aplicar mis habilidades para construir soluciones robustas y escalables. Mi amor por el código me impulsa al aprendizaje continuo de nuevas tecnologías y a la optimización de mi trabajo.
-Busco unirme a un equipo de ingeniería de software que fomente el crecimiento mutuo, donde pueda aportar valor y enfrentar desafíos diarios que me ayuden a crecer profesionalmente.
-      </div>
+      Desarrollador con enfoque en <strong>Full-Stack y Backend</strong>, con experiencia en la construcción de sistemas web, APIs y soluciones orientadas a la automatización y gestión de información. Me especializo en el desarrollo de aplicaciones robustas, escalables y bien estructuradas, aplicando buenas prácticas de ingeniería de software.
+
+```
+  Cuento con experiencia en múltiples tecnologías y lenguajes, participando en el desarrollo de proyectos como sistemas clínicos, plataformas web y APIs, incluyendo soluciones modernas orientadas a <strong>Web 3.0</strong> con generación de contratos inteligentes y transacciones firmadas.
+
+  Además, tengo interés en áreas como la <strong>robótica</strong> y sistemas interactivos, explorando la integración de software con entornos físicos y tecnologías emergentes.
+
+  Apasionado por el ecosistema <strong>Linux y Open Source</strong>, mantengo un enfoque constante en el aprendizaje, la optimización y la mejora continua de mis habilidades técnicas.
+
+  Busco integrarme a un equipo de desarrollo donde pueda aportar valor, enfrentar retos reales y continuar creciendo profesionalmente en entornos de alto nivel técnico.
+  </div>
+```
+
+
   </div>
 </section>
 
