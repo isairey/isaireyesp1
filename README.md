@@ -9,8 +9,6 @@
 
 ---
 
-
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" /> 
   Isai Reyes - Desarrollador
