@@ -111,6 +111,6 @@
 </footer>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=93" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=930" />
 </p>
 
