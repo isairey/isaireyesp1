@@ -101,7 +101,7 @@
 
   
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&mode=weekly&cache_seconds=22)]
+   [![GitHub Streak](https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&mode=weekly&cache_seconds=2)]
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
@@ -111,6 +111,6 @@
 </footer>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=432" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=42" />
 </p>
 
