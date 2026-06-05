@@ -101,7 +101,7 @@
 
   
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&mode=weekly&cache_seconds=7)]
+   [![GitHub Streak](https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&mode=weekly&cache_seconds=337)]
     
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
