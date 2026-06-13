@@ -1,110 +1,110 @@
 <div align="center">
 
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/daa17816-2b69-432d-a9ba-ea0f70ef8ce3" />
+<img width="100%" src="https://github.com/user-attachments/assets/3c4eae90-1eea-438e-8a54-dd153250b5e6" />
 
 </div>
 
 ---
 
-<h1 align="center">👨‍💻 Isai Reyes Peña</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer • Backend Engineer • API & Systems</h3>
+<img src="https://komarev.com/ghpvc/?username=isairey&label=Profile%20views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+<h1 align="center">
+  👨‍💻 Desarrollador Full Stack
+</h1>
 
 <p align="center">
-Desarrollador enfocado en crear sistemas escalables, APIs eficientes y aplicaciones web modernas con buenas prácticas de ingeniería de software.
+Backend • APIs • Sistemas Escalables • Web Moderno • Blockchain
 </p>
 
 ---
 
 <div align="center">
 
-<a href="mailto:isaireyes2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contacto-white?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-
-<a href="https://github.com/isaireyesp1">
-  <img src="https://img.shields.io/badge/GitHub-Perfil-white?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+<img src="https://img.shields.io/badge/CODE-ISAI_REYES-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
 ---
 
-## 📚 Proyecto Destacado
+## 🌱 Sobre mí
 
-# RelatosWeb
-
-Plataforma web moderna para lectura y publicación de relatos, cuentos y narraciones en línea.
-
----
-
-## 📖 Descripción del Proyecto
-
-**RelatosWeb** permite a los usuarios leer, crear y compartir historias en diferentes géneros como:
-
-- Terror  
-- Romance  
-- Ciencia ficción  
-- Misterio  
-- Fantasía  
-
-Su objetivo es ofrecer una experiencia de lectura fluida, moderna y responsiva.
+<p align="center">
+Desarrollador enfocado en construir sistemas robustos, APIs escalables y aplicaciones web modernas con arquitectura limpia.
+<br><br>
+Experiencia en backend, frontend, automatización y sistemas empresariales.
+<br><br>
+Interés en <b>Web3, blockchain, sistemas distribuidos y software de alto rendimiento</b>.
+</p>
 
 ---
 
-## ✨ Características
+## ⚡ Tech Stack
 
-- 📚 Lectura de relatos por categorías
-- 🖋️ Creación de historias
-- ✏️ Edición y eliminación de contenido
-- 🔍 Búsqueda inteligente
-- 📱 Diseño responsive
-- ⚡ Interfaz rápida y ligera
-- 👤 Gestión de usuarios (opcional)
-
----
-
-## ⚙️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" />
+### 💻 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap" />
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,python,django,flask,fastapi" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,java,spring,php,laravel,go" />
 </p>
 
 ---
 
 ### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,supabase" />
 </p>
 
 ---
 
-### 🧰 Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,github,postman,vscode,figma,bash" />
+### ☁️ DevOps & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,vscode,postman,vercel" />
 </p>
 
 ---
 
-## 🚀 Proyectos
+### 🔗 Web3 / Blockchain
+<p align="center">
+<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+</p>
 
-- 📚 RelatosWeb (Plataforma de historias)
-- ⚙️ APIs REST
-- 🧠 Sistemas backend
-- 🔧 Automatización de procesos
-- 🌐 Aplicaciones web modernas
+---
+
+## 🚀 Proyectos Destacados
+
+### 🕷️ WEB SCRAPER
+Sistema de automatización y extracción de datos web.
+
+---
+
+### 🛒 E-COMMERCE FRONTEND
+Interfaz moderna para tienda en línea.
+
+---
+
+### 💳 POS SYSTEM
+Sistema de ventas y administración comercial.
+
+---
+
+### 🏢 ERP PLATFORM
+Gestión empresarial y control de procesos internos.
+
+---
+
+### 📱 MOBILE APP
+Aplicación móvil de control y administración.
 
 ---
 
@@ -112,8 +112,8 @@ Su objetivo es ofrecer una experiencia de lectura fluida, moderna y responsiva.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isairey&show_icons=true&theme=default&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isairey&layout=compact&theme=default&hide_border=true"/>
 
 </div>
 
@@ -123,33 +123,36 @@ Su objetivo es ofrecer una experiencia de lectura fluida, moderna y responsiva.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isairey&theme=github-light&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Filosofía
 
-- 💻 Desarrollo web full stack
-- ⚙️ Enfoque en backend y APIs
-- 🧩 Sistemas escalables
-- 🚀 Aprendizaje continuo
-- 🔐 Interés en arquitectura de software
+- Código limpio
+- Arquitectura escalable
+- Performance primero
+- Aprendizaje continuo
+- Sistemas bien diseñados
 
 ---
 
 ## 📫 Contacto
 
-- 📩 Email: **isaireyes2003@gmail.com**
-- 💻 GitHub: **isaireyesp1**
+<p align="center">
+📧 isaireyes2003@gmail.com
+<br>
+💻 github.com/isaireyesp1
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ “Construyendo sistemas simples, rápidos y escalables”
+### ⚡ “Build simple. Scale everything.”
 
-🚀 Desarrollado por **Isai Reyes Peña**
+🚀 Isai Reyes Peña
 
 </div>
