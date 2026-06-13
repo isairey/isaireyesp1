@@ -6,12 +6,12 @@
 
 ---
 
-<h1 align="center">Isai Reyes</h1>
+<h1 align="center">👨‍💻 Isai Reyes Peña</h1>
 
-<h3 align="center">Full Stack Developer • Backend • APIs • Automation</h3>
+<h3 align="center">Full Stack Developer • Backend Engineer • API & Systems</h3>
 
 <p align="center">
-Desarrollador enfocado en construir sistemas escalables, APIs limpias y aplicaciones modernas con buenas prácticas de ingeniería de software.
+Desarrollador enfocado en crear sistemas escalables, APIs eficientes y aplicaciones web modernas con buenas prácticas de ingeniería de software.
 </p>
 
 ---
@@ -19,60 +19,92 @@ Desarrollador enfocado en construir sistemas escalables, APIs limpias y aplicaci
 <div align="center">
 
 <a href="mailto:isaireyes2003@gmail.com">
-  <img src="https://img.shields.io/badge/email-contacto-black?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contacto-white?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
 <a href="https://github.com/isaireyesp1">
-  <img src="https://img.shields.io/badge/github-portfolio-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Perfil-white?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
+## 📚 Proyecto Destacado
+
+# RelatosWeb
+
+Plataforma web moderna para lectura y publicación de relatos, cuentos y narraciones en línea.
+
+---
+
+## 📖 Descripción del Proyecto
+
+**RelatosWeb** permite a los usuarios leer, crear y compartir historias en diferentes géneros como:
+
+- Terror  
+- Romance  
+- Ciencia ficción  
+- Misterio  
+- Fantasía  
+
+Su objetivo es ofrecer una experiencia de lectura fluida, moderna y responsiva.
+
+---
+
+## ✨ Características
+
+- 📚 Lectura de relatos por categorías
+- 🖋️ Creación de historias
+- ✏️ Edición y eliminación de contenido
+- 🔍 Búsqueda inteligente
+- 📱 Diseño responsive
+- ⚡ Interfaz rápida y ligera
+- 👤 Gestión de usuarios (opcional)
+
+---
+
 ## ⚙️ Tech Stack
 
-### 🚀 Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=c%2B%2B)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
-
----
-
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vuedotjs)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,tailwind" />
+</p>
 
 ---
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
-![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,python,django,flask,fastapi" />
+</p>
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+</p>
 
 ---
 
 ### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,github,postman,vscode,figma,bash" />
+</p>
+
+---
+
+## 🚀 Proyectos
+
+- 📚 RelatosWeb (Plataforma de historias)
+- ⚙️ APIs REST
+- 🧠 Sistemas backend
+- 🔧 Automatización de procesos
+- 🌐 Aplicaciones web modernas
 
 ---
 
@@ -80,44 +112,44 @@ Desarrollador enfocado en construir sistemas escalables, APIs limpias y aplicaci
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=default&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=default&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Activity
+## 📈 Actividad
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 Focus
+## 🧠 Sobre mí
 
-- Backend Architecture
-- API Development
-- Scalable Systems
-- Automation Tools
-- Clean Code & Best Practices
+- 💻 Desarrollo web full stack
+- ⚙️ Enfoque en backend y APIs
+- 🧩 Sistemas escalables
+- 🚀 Aprendizaje continuo
+- 🔐 Interés en arquitectura de software
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 
-- Email: **isaireyes2003@gmail.com**
-- GitHub: **isaireyesp1**
+- 📩 Email: **isaireyes2003@gmail.com**
+- 💻 GitHub: **isaireyesp1**
 
 ---
 
 <div align="center">
 
-### “Simple. Clean. Scalable.”
+### ⭐ “Construyendo sistemas simples, rápidos y escalables”
 
-🚀 Built by **Isai Reyes**
+🚀 Desarrollado por **Isai Reyes Peña**
 
 </div>
