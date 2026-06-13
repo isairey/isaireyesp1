@@ -1,116 +1,119 @@
-
 <div align="center">
-  
- 
-<img width="1536" height="329" alt="Banner profesional f" src="https://github.com/user-attachments/assets/daa17816-2b69-432d-a9ba-ea0f70ef8ce3" />
 
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/daa17816-2b69-432d-a9ba-ea0f70ef8ce3" />
 
 </div>
 
 ---
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" /> 
-  Isai Reyes - Desarrollador
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="45" />
+  Isai Reyes | Full Stack Developer
 </h1>
+
+<h3 align="center">
+  🚀 Desarrollo Web • APIs • Backend • Automatización • IA
+</h3>
 
 ---
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/CODE-ISAI_REYES-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Isai Reyes Coding"/>
+
+<a href="mailto:isaireyes2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/isaireyesp1">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
- 
- 
 
-<section>
-      <div id="badges" align="center">
-        <a href="mailto:isaireyes2003@gmail.com">
-          <img src="https://img.shields.io/badge/Email-0052CC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
-        </a>
-          <a href="#">
-          <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
-        </a>
-        <a href="https://github.com/isaireyesp1">
-          <img src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </div>
-</section>
+## 🧠 Sobre mí
 
+Desarrollador enfocado en **Full Stack y Backend**, especializado en la creación de sistemas escalables, APIs robustas y aplicaciones web modernas.
 
-  <section>
-   <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left" />
-  <div align="right">
-    <h3 align="center">🌱 Sobre mi </h3>
-      <div align="center"> 
-      Desarrollador con enfoque en <strong>Full-Stack y Backend</strong>, con experiencia en la construcción de sistemas web, APIs y soluciones orientadas a la automatización y gestión de información. Me especializo en el desarrollo de aplicaciones robustas, escalables y bien estructuradas, aplicando buenas prácticas de ingeniería de software.
-  Cuento con experiencia en múltiples tecnologías y lenguajes, participando en el desarrollo de proyectos como sistemas clínicos, plataformas web y APIs, incluyendo soluciones modernas orientadas a <strong>Web 3.0</strong> con generación de contratos inteligentes y transacciones firmadas.
-  Además, tengo interés en áreas como la <strong>robótica</strong> y sistemas interactivos, explorando la integración de software con entornos físicos y tecnologías emergentes.
-  Apasionado por el ecosistema <strong>Linux y Open Source</strong>, mantengo un enfoque constante en el aprendizaje, la optimización y la mejora continua de mis habilidades técnicas.
-  Busco integrarme a un equipo de desarrollo donde pueda aportar valor, enfrentar retos reales y continuar creciendo profesionalmente en entornos de alto nivel técnico.
-  </div>
+Tengo experiencia desarrollando proyectos como:
+- Sistemas de gestión
+- Plataformas web
+- APIs REST
+- Automatización de procesos
 
-
-
-  </div>
-</section>
+Me apasiona el desarrollo limpio, la arquitectura de software y la optimización de sistemas.
 
 ---
 
-<section>
-  <div align="center">
-   
-  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
-    <h3>👨‍💻 Languages and Tools:</h3>
-   
-  |🔥 Languages |📌 Frontend         |📌 Backend          | 📌 Testing      |📌 Databases & ORM |📌      WorkFlow | 
-  |----------| --------------- | ------------------ | --------------|----------|---------------|
-  |<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> | <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/> | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> |  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> | 
-  | <img src="https://img.shields.io/badge/Typescript-b2ffff?style=for-the-badge&logo=typescript&logoColor=black"/>      | <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> |<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> |               |<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>|      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>     |
-  |          | <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>| <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/> |       |<img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/> |<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>     |  
- |          | <img src="https://img.shields.io/badge/Tailwind-239120?&style=for-the-badge&logo=Tailwind3&logoColor=white"/>|            |       ||             
-   
-  </div>
-</section>
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 🚀 Lenguajes
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### 🗄️ Bases de datos
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+</div>
 
 ---
 
-<section>
-    <div align="center"> 
-    <h3>Projects</h3>
-      
-  |📌 Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
-  |-------------|----------|---------------|----------------|-----------|---------|
-  |![Static Badge](https://img.shields.io/badge/WEB_SCRAPER-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/scraper?color=red)|
-  |![Static Badge](https://img.shields.io/badge/PROXY_MICROSERVICE-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/p/proxy-web-microservice?color=red)|
-  |![Static Badge](https://img.shields.io/badge/E_COMMERCE_DEMO-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/ecomerceDemo?color=red)|
-   
-  </div>
-</section>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
-<footer>
+## 🔥 Actividad
 
-  <div align="center">
+<div align="center">
 
-   
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-compact&hide_border=true"/>
 
-  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+</div>
 
-  
+---
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true&mode=weekly&cache_seconds=337)]
-    
-  |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
-  | ---------------| ------------------ |
-  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=isaireyesp1&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="isairey" /> |<img src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="IsaiRey" />      | 
-    
-  </div>
-</footer>
+## 🚀 Proyectos
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true&cache_seconds=474" />
-</p>
+- 🔹 Sistemas web completos
+- 🔹 APIs REST
+- 🔹 Automatización de procesos
+- 🔹 Microservicios
 
+---
+
+## 📫 Contacto
+
+- 📩 Email: **isaireyes2003@gmail.com**
+- 💻 GitHub: **isaireyesp1**
+
+---
+
+<div align="center">
+
+### ⭐ “Código limpio, sistemas escalables y desarrollo constante”
+
+🚀 Desarrollado por **Isai Reyes**
+
+</div>
