@@ -129,6 +129,7 @@ Aplicación móvil de control y administración.
 
 ---
 
+
 ## 🧠 Filosofía
 
 - Código limpio
