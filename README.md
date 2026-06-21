@@ -178,7 +178,7 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-# 🔥 Racha de Contribuciones
+#  Racha de Contribuciones
 
 <div align="center">
 
@@ -188,7 +188,7 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-# 📈 Actividad en GitHub
+#  Actividad en GitHub
 
 <div align="center">
 
@@ -198,7 +198,7 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-# 🏆 Logros
+#  Logros
 
 <div align="center">
 
@@ -208,7 +208,7 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-# 🧠 Mi Filosofía de Desarrollo
+#  Mi Filosofía de Desarrollo
 
 ### Principios que aplico en cada proyecto
 
