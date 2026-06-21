@@ -61,35 +61,35 @@ filosofia:
 
 ---
 
-# ⚡ Tecnologías y Herramientas
+#  Tecnologías y Herramientas
 
 <div align="center">
 
-## 🎨 Frontend
+##  Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite"/>
 
 ---
 
-## ⚙️ Backend
+##  Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi,django,java,spring,php,laravel,go"/>
 
 ---
 
-## 🗄️ Bases de Datos
+##  Bases de Datos
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,supabase"/>
 
 ---
 
-## ☁️ DevOps y Herramientas
+##  DevOps y Herramientas
 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,postman,vercel,vscode"/>
 
 ---
 
-## 🔗 Blockchain
+##  Blockchain
 
 <img src="https://skillicons.dev/icons?i=solidity,ethereum"/>
 
@@ -97,13 +97,13 @@ filosofia:
 
 ---
 
-# 🚀 Proyectos Destacados
+#  Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%">
 
-### 🕷️ Plataforma Web Scraper
+###  Plataforma Web Scraper
 
 Sistema de automatización para extracción y procesamiento de datos web.
 
