@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://github.com/user-attachments/assets/3c4eae90-1eea-438e-8a54-dd153250b5e6"/>
 
-# 👋 ¡Hola! Soy Isai Reyes Peña
+#  ¡Hola! Soy Isai Reyes Peña
 
-### 🚀 Desarrollador Full Stack | Ingeniero Backend | Arquitecto de Software
+###  Desarrollador Full Stack | Ingeniero Backend | Arquitecto de Software
 
 
 <br>
@@ -18,7 +18,7 @@
 
 ---
 
-# 💫 Sobre Mí
+#  Sobre Mí
 
 ```yaml
 nombre: Isai Reyes Peña
@@ -45,19 +45,19 @@ filosofia:
 
 ---
 
-# 🚀 Lo que hago
+#  Lo que hago
 
-💻 Desarrollo aplicaciones web modernas
+- Desarrollo aplicaciones web modernas
 
-⚙️ Diseño APIs robustas y escalables
+- Diseño APIs robustas y escalables
 
-🗄️ Trabajo con bases de datos relacionales y NoSQL
+- Trabajo con bases de datos relacionales y NoSQL
 
-☁️ Implemento soluciones con Docker y tecnologías Cloud
+- Implemento soluciones con Docker y tecnologías Cloud
 
-🔗 Exploro el ecosistema Blockchain y Web3
+- Exploro el ecosistema Blockchain y Web3
 
-📚 Aprendo constantemente nuevas tecnologías y metodologías
+- Aprendo constantemente nuevas tecnologías y metodologías
 
 ---
 
