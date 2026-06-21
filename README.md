@@ -212,21 +212,21 @@ Sistema empresarial para gestión de procesos internos.
 
 ### Principios que aplico en cada proyecto
 
-✅ Código limpio y mantenible
+- Código limpio y mantenible
 
-✅ Arquitecturas escalables
+- Arquitecturas escalables
 
-✅ Buenas prácticas de desarrollo
+- Buenas prácticas de desarrollo
 
-✅ Optimización y rendimiento
+- Optimización y rendimiento
 
-✅ Seguridad desde el diseño
+- Seguridad desde el diseño
 
-✅ Aprendizaje continuo
+- Aprendizaje continuo
 
-✅ Experiencia de usuario como prioridad
+- Experiencia de usuario como prioridad
 
-✅ Automatización de procesos
+- Automatización de procesos
 
 ---
 
