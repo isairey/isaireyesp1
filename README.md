@@ -193,7 +193,7 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaireyesp1&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true"/>
 
 </div>
 
