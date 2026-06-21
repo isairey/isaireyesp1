@@ -230,7 +230,7 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-# 📚 Actualmente Aprendiendo
+#  Actualmente Aprendiendo
 
 * Arquitectura de Microservicios
 * Inteligencia Artificial Aplicada
@@ -240,15 +240,15 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-# 📫 Contacto
+#  Contacto
 
 <div align="center">
 
-### 📧 Correo
+###  Correo
 
 **[isaireyes2003@gmail.com](mailto:isaireyes2003@gmail.com)**
 
-### 💻 GitHub
+###  GitHub
 
 **github.com/isaireyesp1**
 
@@ -258,9 +258,9 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-# ⚡ "Construir Simple. Escalar Todo."
+#  "Construir Simple. Escalar Todo."
 
-### 🚀 Isai Reyes Peña
+###  Isai Reyes Peña
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:7C3AED&section=footer"/>
 
