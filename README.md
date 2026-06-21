@@ -6,7 +6,6 @@
 
 ### 🚀 Desarrollador Full Stack | Ingeniero Backend | Arquitecto de Software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Desarrollador+Full+Stack;Especialista+en+Backend+y+APIs;Construyendo+Aplicaciones+Escalables;React+%7C+Spring+Boot+%7C+Node.js;Aprendiendo+y+Creando+Todos+los+Días"/>
 
 <br>
 
