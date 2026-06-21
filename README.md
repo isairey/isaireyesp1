@@ -118,7 +118,7 @@ Sistema de automatización para extracción y procesamiento de datos web.
 
 <td width="50%">
 
-### 🛒 Plataforma E-Commerce
+###  Plataforma E-Commerce
 
 Tienda en línea moderna con catálogo y gestión de productos.
 
@@ -135,7 +135,7 @@ Tienda en línea moderna con catálogo y gestión de productos.
 <tr>
 <td width="50%">
 
-### 💳 Sistema Punto de Venta
+###  Sistema Punto de Venta
 
 Administración de ventas, inventario y clientes.
 
@@ -149,7 +149,7 @@ Administración de ventas, inventario y clientes.
 
 <td width="50%">
 
-### 🏢 Plataforma ERP
+###  Plataforma ERP
 
 Sistema empresarial para gestión de procesos internos.
 
@@ -166,7 +166,7 @@ Sistema empresarial para gestión de procesos internos.
 
 ---
 
-# 📊 Estadísticas de GitHub
+#  Estadísticas de GitHub
 
 <div align="center">
 
