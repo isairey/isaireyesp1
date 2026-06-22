@@ -257,7 +257,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 #  Contacto
 
-<div align="center">
+
 
 ###  Correo
 
@@ -267,7 +267,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 **github.com/isaireyesp1**
 
-</div>
+
 
 ---
 
