@@ -217,16 +217,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 <div align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="37%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&theme=transparent&hide_border=true"/>
-
-<br>
-
-<img width="70%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=isaireyesp1&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=transparent&hide_border=true"/>
 
 </div>
 
