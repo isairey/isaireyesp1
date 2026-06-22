@@ -217,7 +217,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
