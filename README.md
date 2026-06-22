@@ -213,7 +213,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 ---
 
-#  Logros
+
 
 <div align="center">
 
