@@ -170,11 +170,7 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&hide_border=true&bg_color=00000000"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -184,7 +180,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaireyesp1&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=isaireyesp1&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -194,7 +190,20 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=tokyo-night&hide_border=true"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true"
+  />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=isaireyesp1&theme=github-light&hide_border=true"
+  />
+</picture>
 
 </div>
 
@@ -204,7 +213,19 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=tokyonight&no-frame=true&row=1&column=7"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&row=1&column=7"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&row=1&column=7"
+  />
+</picture>
 
 </div>
 
