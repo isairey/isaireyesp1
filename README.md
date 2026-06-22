@@ -226,7 +226,19 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=tokyonight&no-frame=true&row=1&column=7"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&row=1&column=7"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&row=1&column=7"
+  />
+</picture>
 
 </div>
 
