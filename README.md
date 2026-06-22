@@ -217,7 +217,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=onedark&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=isaireyesp1&theme=flat&no-frame=true&margin-w=10"/>
 
 </div>
 ---
