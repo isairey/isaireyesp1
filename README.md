@@ -170,7 +170,11 @@ Sistema empresarial para gestión de procesos internos.
 
 <div align="center">
 
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=isaireyesp1&show_icons=true&hide_border=true&theme=transparent" />
 
+<img width="37%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaireyesp1&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
